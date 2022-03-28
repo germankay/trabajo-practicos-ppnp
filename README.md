@@ -8,4 +8,4 @@ Lista de cosas:
 
 
 ### titulo de tercer nivel
-esto es una [URL](https:\\google.com)
+esto es una [URL](https://www.google.com/)
